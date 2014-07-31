@@ -3,7 +3,7 @@ pyrcon_salt
 
 .. image:: http://img.shields.io/pypi/v/pyrcon_salt.svg
     :target: https://pypi.python.org/pypi/pyrcon_salt
-.. image:: https://travis-ci.org/urtdevs/pyrcon_salt.svg?branch=master
+.. image:: http://img.shields.io/travis/urtdevs/pyrcon_salt.svg
     :target: https://travis-ci.org/urtdevs/pyrcon_salt
 .. image:: https://img.shields.io/coveralls/urtdevs/pyrcon_salt.svg
     :target: https://coveralls.io/r/urtdevs/pyrcon_salt
